@@ -21,6 +21,13 @@ __Our Dev Stack__
 - UI/UX Design and prototyping: Figma
 - Database: MongoDB
 
+__Our Platforms__
+
+- Web, Mobile web, and PWAs
+- Cordova, React Native Apps
+- Server, Nginx, Node.js
+- Linux, HTTP (TCP/IP) Micro-services
+
 __Our DevOps Stack__
 
 - Hosting: AWS, Hetzner
@@ -31,4 +38,5 @@ __Our DevOps Stack__
 
 ### Openings
 
+- [Full-stack developer](https://github.com/veliovgroup/careers/blob/master/full-stack-developer_202301.md)
 - [Web UI/UX Designer](https://github.com/veliovgroup/careers/blob/master/web-designer_202301.md)

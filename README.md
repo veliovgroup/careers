@@ -33,7 +33,7 @@ __Our DevOps Stack__
 - Hosting: AWS, Hetzner
 - DNS/CDN: CloudFlare
 - Load distribution: HAProxy, Geo DNS
-- Zero-downtime runtime and deployments: Phusion Passenger + Nginx
+- Zero-downtime runtime and roll-outs: Phusion Passenger + Nginx
 - Databases: Multi-replicas MongoDB
 
 ### Openings
@@ -41,3 +41,4 @@ __Our DevOps Stack__
 - [Full-stack developer](https://github.com/veliovgroup/careers/blob/master/full-stack-developer_202301.md)
 - [Front-end developer](https://github.com/veliovgroup/careers/blob/master/front-end-developer_202301.md)
 - [Web UI/UX Designer](https://github.com/veliovgroup/careers/blob/master/web-designer_202301.md)
+- [Manager](https://github.com/veliovgroup/careers/blob/master/digitalproject-manager.md)

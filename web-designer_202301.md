@@ -19,7 +19,8 @@ __During your work, follow the next principles:__
 __Deliverables:__
 
 - Figma
-- Guidelines (documentation in Google-doc)
+- Produce Guidelines (documentation in Google-doc)
+- Split design into smaller tasks
 - Raster or vector assets
 - PDF files (brochure or presentation)
 

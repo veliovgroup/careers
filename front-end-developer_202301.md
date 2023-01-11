@@ -23,3 +23,8 @@ __Bonus skills:__
 
 - JavaScript, Meteor.js, Blaze.js
 - PHP (Laravel, October CMS)
+
+__Location:__
+
+- Cyprus, Limassol, Omodos
+- Full-time (Mon-Fri)

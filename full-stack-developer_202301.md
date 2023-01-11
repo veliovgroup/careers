@@ -30,3 +30,8 @@ __Personal skills/attributes:__
 - You are solution-oriented and enjoy problem-solving
 - You have good communication skills and work well with others
 - You are self-driven and can work comfortably on your own
+
+__Location:__
+
+- Cyprus, Limassol, Omodos
+- Full-time (Mon-Fri)

@@ -14,7 +14,7 @@ __During your work, follow the next principles:__
 
 - Best UI/UX practices
 - Mobile-first layout and templates
-- Complaint with Lighthouse guidelines and tests (see web.dev)
+- Comply Lighthouse guidelines and tests (see web.dev)
 
 __Deliverables:__
 

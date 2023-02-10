@@ -20,7 +20,7 @@ __Bonus skills:__
 
 - Meteor.js, Blaze.js
 - PHP (Laravel, October CMS)
-- MySQL, Redis, RabbinMQ
+- MySQL, Redis, RabbitMQ
 - Nginx, Phusion Passenger
 - AWS
 - Stripe

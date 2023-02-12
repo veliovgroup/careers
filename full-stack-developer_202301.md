@@ -33,5 +33,5 @@ __Personal skills/attributes:__
 
 __Location:__
 
-- Cyprus, Limassol, Omodos
+- Cyprus, Limassol, Platres
 - Full-time (Mon-Fri)

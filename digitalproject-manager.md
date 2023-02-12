@@ -34,5 +34,5 @@ __Bonus skills:__
 
 __Location:__
 
-- Cyprus, Limassol, Omodos
+- Cyprus, Limassol, Platres
 - Full-time (Mon-Fri)

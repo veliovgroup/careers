@@ -35,5 +35,5 @@ Test-task will be paid hourly or as a fixed milestone
 
 __Location:__
 
-- Cyprus, Limassol, Platres
+- Cyprus, Limassol, Platres (*make sure you check the map*)
 - Full-time (Mon-Fri)

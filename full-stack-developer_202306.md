@@ -10,20 +10,29 @@ __Key responsibilities:__
 
 __Skills and Specifications:__
 
-- 2+ years of work experience with Node.js and JavaScript
-- 3+ years of work experience with CSS, HTML, and its preprocessors
+- 3+ years of work experience with Node.js and JavaScript
+- 5+ years of work experience with CSS, HTML, and its pre-processors
+- 2+ years of working with MongoDB
 - Be comfortable working and exporting from Figma and similar design toolkits
 - Experience with GIT (GitHub) and GitFlow is vital
 - Excellent command of English and communication is critical (you might be coding, but communication and understanding are vital)
 
+__What we expect from you:__
+
+- 5+ Years in web development
+- Medium level skills with strong experience or higher
+- Attention to detail
+- Be open to discussion and constructive debate
+
 __Bonus skills:__
 
 - Meteor.js, Blaze.js
+- PWA
+- Nginx, Phusion Passenger
+- Stripe
 - PHP (Laravel, October CMS)
 - MySQL, Redis, RabbitMQ
-- Nginx, Phusion Passenger
 - AWS
-- Stripe
 
 __Personal skills/attributes:__
 
@@ -33,5 +42,5 @@ __Personal skills/attributes:__
 
 __Location:__
 
-- Cyprus, Limassol, Platres
+- Cyprus, Limassol, Platres (*make sure you check the map*)
 - Full-time (Mon-Fri)

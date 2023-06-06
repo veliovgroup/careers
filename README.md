@@ -39,13 +39,10 @@ __Our DevOps Stack__
 ### Openings
 
 - [Full-stack developer](https://github.com/veliovgroup/careers/blob/master/full-stack-developer_202301.md)
-- [Front-end developer](https://github.com/veliovgroup/careers/blob/master/front-end-developer_202301.md)
 - [Web UI/UX Designer](https://github.com/veliovgroup/careers/blob/master/web-designer_202301.md)
-- [Manager](https://github.com/veliovgroup/careers/blob/master/digitalproject-manager.md)
 
 Submit your CV [to our email](mailto:hr@veliovgroup.com) along with:
 
   1. What's your working visa/permit requirements?
   2. Are you located in Cyprus 🇨🇾?
   3. Monthly salary expectations after tax
-

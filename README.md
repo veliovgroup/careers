@@ -2,13 +2,13 @@ Join veliovgroup.
 
 __About us__
 
-- Operating from Cyprus 🏝️
 - Open Source and commercial software development group
+- Website: [veliovgroup.com](https://veliovgroup.com/)
 
 __Our Management Stack__
 
-- Task Management: GitHub Projects
-- Communication: GitHub Issues; Telegram Chats
+- Task Management: Jira
+- Communication: Jira, GitHub Reviews, Telegram Chats
 - Design: Figma
 - Document Driven Development via Software Requirements Specification (SRS)
 
@@ -19,7 +19,7 @@ __Our Dev Stack__
 - Source Code Management: Git, GitHub
 - Web Servers: HAProxy, Nginx
 - UI/UX Design and prototyping: Figma
-- Database: MongoDB
+- Database: MongoDB, Redis, Neo4j
 
 __Our Platforms__
 
@@ -32,17 +32,10 @@ __Our DevOps Stack__
 
 - Hosting: AWS, Hetzner
 - DNS/CDN: CloudFlare
-- Load distribution: HAProxy, Geo DNS
-- Zero-downtime runtime and roll-outs: Phusion Passenger + Nginx
+- Load distribution and horizontal scaling: HAProxy, Geo DNS
+- Zero-downtime runtime and roll-outs: HAProxy, Nginx, Hetzner
 - Databases: Multi-replicas MongoDB
 
 ### Openings
 
-- [Full-stack developer](https://github.com/veliovgroup/careers/blob/master/full-stack-developer_202306.md)
-- [Web UI/UX Designer](https://github.com/veliovgroup/careers/blob/master/web-designer_202306.md)
-
-Submit your CV [to our email](mailto:hr@veliovgroup.com) along with:
-
-  1. What's your working visa/permit requirements?
-  2. Are you located in Cyprus 🇨🇾?
-  3. Monthly salary expectations after tax
+*No openings available at this moment*
